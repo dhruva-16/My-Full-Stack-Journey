@@ -62,7 +62,7 @@ I'm **Dhruva**, a dedicated frontend developer in the making. From structuring H
 
 - 🌍 Portfolio: [your-portfolio-link.com]  
 - 📬 Email: [dhruvakumark1628@gmail.com]  
-- 💼 LinkedIn: [linkedin.com/in/yourname]  
+- 💼 LinkedIn: [www.linkedin.com/in/dhruva-kumar-b13417377]  
 - 😎 Dev Motto: *Build fast. Learn fast. Break nothing.*
 
 ---
